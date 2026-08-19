@@ -11,7 +11,7 @@
 | --- | --- |
 | Team Name | Asgardians |
 | Team Lead | M Mukesh Reddy — mukeshmreddy@gmail.com / 8500635807 |
-| Team Members (4) | 1. M Mukesh Reddy 2. LNV Lochan CH  3. S Tashvi  4. K Dhanvine Reddy |
+| Team Members (4) | 1. M Mukesh Reddy   2. LNV Lochan CH    3. S Tashvi    4. K Dhanvine Reddy |
 | GitHub Repository | *[repo link]* |
 
 ---
@@ -27,8 +27,6 @@ This project is part of the Data ML Technical Championship. Our goal is to analy
 - Pneumothorax
 
 Each X-ray may contain more than one condition, so our system will generate an **independent probability (0–1) for each condition**, per image.
-
-> **Note:** This is a classical ML challenge. Deep learning, CNNs, and pretrained feature extractors (ResNet, DenseNet, VGG, EfficientNet, etc.) are not permitted at any stage of the pipeline.
 
 ---
 

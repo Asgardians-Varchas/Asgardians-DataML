@@ -11,8 +11,11 @@
 | --- | --- |
 | Team Name | Asgardians |
 | Team Lead | M Mukesh Reddy — mukeshmreddy@gmail.com / 8500635807 |
-| Team Members (4) | 1. M Mukesh Reddy   2. LNV Lochan CH    3. S Tashvi    4. K Dhanvine Reddy |
-| GitHub Repository | *[repo link]* |
+| Team Members (4) | 1. M Mukesh Reddy |
+|  | 2. LNV Lochan CH |
+|  | 3. S Tashvi |
+|  | 4. K Dhanvine Reddy |
+| GitHub Repository | https://github.com/Asgardians-Varchas/Asgardians-DataML |
 
 ---
 
